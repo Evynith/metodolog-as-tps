@@ -4,6 +4,8 @@
 ## Ejercicio 5.1 
 **Considere el siguiente diagrama de casos de uso.**
 
+![Diagrama](/assets/Screenshot_20220815_163841.png "Red celular")
+
 **Nombre cada uno de los elementos de notación o sintaxis que están presentes en dicho diagrama. ⮚ Describa brevemente qué interpreta de dicho diagrama.**
 
 **Actores:** Son los que activan/inician los casos de uso, en este caso hay 2, cliente y red celular. Cumplen un rol <br>
