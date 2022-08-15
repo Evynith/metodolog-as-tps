@@ -89,12 +89,12 @@ flujo alternativo:
 
 **Precondición :** que el cliente haya hecho al menos una orden de compra <br>
 
-draw.io
+![Diagrama](/assets/TP5-E5.2-Page-1.jpg "Red celular")
 
 ## Ejercicio 5.3 (Caso de Estudio: Biblioteca) 
 **⮚ Identifique actores y casos de uso a partir de la narrativa descripta. Construya el diagrama de casos de uso correspondiente.**
 
-draw.io
+![Diagrama](/assets/TP5-5-3.png "Red celular")
 
 **⮚ Especifique de forma detallada, los casos de uso correspondientes: al préstamo de un ejemplar de libro a un socio; y a la devolución de un ejemplar. Incluya flujo de eventos básico, y alternativos. 
 (pedir libro, devolver libro, consultar disponibilidad)**
@@ -171,7 +171,7 @@ Extiende a “pedir libro” , cuando el socio quiere saber la disponibilidad de
 **Identifique actores y casos de uso a partir de la operatoria descripta para un cajero automático. Construya el diagrama de casos de uso correspondiente. 
 ⮚ Especifique en detalle los casos de uso correspondientes a: la extracción de un monto de dinero de una cuenta; al depósito de un monto de dinero en una cuenta; y a la transferencia de un monto entre dos cuentas de un mismo cliente y un mismo banco.**
 
-draw.io
+![Diagrama](/assets/TP5-5-4.png "Red celular")
 
 **Nombre del caso de uso:** extraer dinero <br>
 **Descripción:** Este caso de uso describe el proceso por medio del cual un cliente del banco puede extraer dinero de su cuenta <br>
